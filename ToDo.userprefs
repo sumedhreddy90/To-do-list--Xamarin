@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{90220CFA-9394-44DB-A752-7C83AA846E7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Sqlite_iOS.cs">
+    <Files>
+      <File FileName="ToDo/Data/ToDoDatabase.cs" Line="17" Column="35" />
+      <File FileName="ToDo/Model/ToDoItem.cs" Line="8" Column="36" />
+      <File FileName="ToDo/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ToDo/View/CreatePage.xaml" Line="8" Column="17" />
+      <File FileName="iOS/Sqlite_iOS.cs" Line="12" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ToDo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38440DEB-E944-4A77-8514-999B63EB7C2D" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDo.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
